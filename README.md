@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Soumya Ranjan Kalia</h1>
 <h3 align="center">Aspiring full-stack web developer with specialization in HTML, CSS, JavaScript, DSA, MongoDB, React, ES6. Adapt at engineering robots and user simplex solution. Passionate about coding and learning new technologies. Looking forward to working as a software developer in a product-based company.</h3>
 
-<img align="center"  src="https://user-images.githubusercontent.com/94515208/163730001-6327a2e0-ab84-4895-9f5d-495438a04999.png" height="400" width="800" />
+<img align="center"  src="https://raw.githubusercontent.com/theakshayraj/Cool-Readme-ideas/main/data/chill%20scene.gif" height="400" width="800" />
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kalia_soumya" target="blank"><img src="https://img.shields.io/twitter/follow/kalia_soumya?logo=twitter&style=for-the-badge" alt="kalia_soumya" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack Web Devloment**
 
