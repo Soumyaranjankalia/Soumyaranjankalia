@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **a2soumya.ranjan@gmail.com**
 
-- 📄 Know about my experiences <a href="https://docs.google.com/document/d/15ASy0SMETnMmMJlrmAYP7g_DLlqKLKAgxcrIBLmg0TQ/edit?usp=sharing">here</a> 
+- 📄 Know about my experiences <a href="https://drive.google.com/drive/u/0/folders/1qYGzm8MmBCn5jtbDxTrXGb56c_HqlJA1">here</a> 
 
 -  👨‍💻 All of my projects are available at <a href = "https://soumyaranjan.vercel.app/">My Portfolio</a>
 
